@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>oded.dev</title>
+  
+  
+  <link href="https://oded.dev/atom.xml" rel="self"/>
+  
+  <link href="https://oded.dev/"/>
+  <updated>2021-02-22T17:11:05.614Z</updated>
+  <id>https://oded.dev/</id>
+  
+  <author>
+    <name>Oded Lazar</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AX3600 - Post #1</title>
+    <link href="https://oded.dev/2020/11/30/AX3600-1/"/>
+    <id>https://oded.dev/2020/11/30/AX3600-1/</id>
+    <published>2020-11-30T19:08:00.000Z</published>
+    <updated>2021-02-22T17:11:05.614Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;In my &lt;a href=&quot;/2020/10/23/AX3600-0&quot;&gt;previous post&lt;/a&gt; I gave you an intro about AX3600 and how awesome it is. This post will focus on ho</summary>
+      
+    
+    
+    
+    <category term="hacking" scheme="https://oded.dev/categories/hacking/"/>
+    
+    
+    <category term="linux" scheme="https://oded.dev/tags/linux/"/>
+    
+    <category term="xiaomi" scheme="https://oded.dev/tags/xiaomi/"/>
+    
+    <category term="ax3600" scheme="https://oded.dev/tags/ax3600/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AX3600 - Post #0</title>
+    <link href="https://oded.dev/2020/10/23/AX3600-0/"/>
+    <id>https://oded.dev/2020/10/23/AX3600-0/</id>
+    <published>2020-10-23T13:34:10.000Z</published>
+    <updated>2021-02-22T17:11:05.614Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Wow. last time I wrote anything was ~2 years ago. I actually spent a whole day on getting the blog to working state!&lt;br&gt;Anyhow, I’m back </summary>
+      
+    
+    
+    
+    <category term="hacking" scheme="https://oded.dev/categories/hacking/"/>
+    
+    
+    <category term="linux" scheme="https://oded.dev/tags/linux/"/>
+    
+    <category term="xiaomi" scheme="https://oded.dev/tags/xiaomi/"/>
+    
+    <category term="ax3600" scheme="https://oded.dev/tags/ax3600/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Getting an Accurate Weather Forecast using Wi-Fi Position System</title>
+    <link href="https://oded.dev/2018/01/12/wips_weather/"/>
+    <id>https://oded.dev/2018/01/12/wips_weather/</id>
+    <published>2018-01-12T21:01:09.000Z</published>
+    <updated>2021-02-22T17:11:05.634Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;I’m travelling a lot with my laptop, and having an accurate weather forecast on-the-go is very convenient.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2018/</summary>
+      
+    
+    
+    
+    <category term="devops" scheme="https://oded.dev/categories/devops/"/>
+    
+    
+    <category term="linux" scheme="https://oded.dev/tags/linux/"/>
+    
+    <category term="python" scheme="https://oded.dev/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>You&#39;re not a Java Developer</title>
+    <link href="https://oded.dev/2017/11/28/not_an_lang_dev/"/>
+    <id>https://oded.dev/2017/11/28/not_an_lang_dev/</id>
+    <published>2017-11-28T08:53:00.000Z</published>
+    <updated>2021-02-22T17:11:05.630Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;You are not a “Java Developer”.&lt;br&gt;You are a Software Developer who is capable of writing software in Java.&lt;/p&gt;
+&lt;p&gt;You don’t want to hire</summary>
+      
+    
+    
+    
+    <category term="thoughts" scheme="https://oded.dev/categories/thoughts/"/>
+    
+    <category term="programming" scheme="https://oded.dev/categories/thoughts/programming/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Migrating Fedora from BIOS to UEFI</title>
+    <link href="https://oded.dev/2017/11/13/fedora_uefi/"/>
+    <id>https://oded.dev/2017/11/13/fedora_uefi/</id>
+    <published>2017-11-13T15:21:13.000Z</published>
+    <updated>2021-02-22T17:11:05.626Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Let me tell you a story.&lt;/p&gt;
+&lt;p&gt;This is not a sad story, but a geeky one.&lt;/p&gt;
+&lt;p&gt;A story about a developer that was told it’s impossible </summary>
+      
+    
+    
+    
+    <category term="devops" scheme="https://oded.dev/categories/devops/"/>
+    
+    
+    <category term="linux" scheme="https://oded.dev/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Guts n’ Glory of Database Internals</title>
+    <link href="https://oded.dev/2017/11/07/guts-n-glory-of-db-internals/"/>
+    <id>https://oded.dev/2017/11/07/guts-n-glory-of-db-internals/</id>
+    <published>2017-11-07T10:16:37.000Z</published>
+    <updated>2021-02-22T17:11:05.626Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;A year ago &lt;a href=&quot;https://ayende.com/&quot;&gt;Oren Eini&lt;/a&gt; (a.k.a &lt;a href=&quot;https://twitter.com/ayende&quot;&gt;@ayende&lt;/a&gt;) wrote a series dubbed &lt;a </summary>
+      
+    
+    
+    
+    <category term="devops" scheme="https://oded.dev/categories/devops/"/>
+    
+    <category term="programming" scheme="https://oded.dev/categories/devops/programming/"/>
+    
+    
+    <category term="databases" scheme="https://oded.dev/tags/databases/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My take on Modern C++</title>
+    <link href="https://oded.dev/2017/11/06/modern-cpp/"/>
+    <id>https://oded.dev/2017/11/06/modern-cpp/</id>
+    <published>2017-11-06T07:27:12.000Z</published>
+    <updated>2021-02-22T17:11:05.630Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;C++ is a big language that has evolved tremendously since it’s inception way back in the 1980’s.&lt;/p&gt;
+&lt;p&gt;Throughout the years, many millio</summary>
+      
+    
+    
+    
+    <category term="programming" scheme="https://oded.dev/categories/programming/"/>
+    
+    
+    <category term="c++" scheme="https://oded.dev/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++ &lt;algorithm&gt; Series #0</title>
+    <link href="https://oded.dev/2017/11/03/cpp-algo-0/"/>
+    <id>https://oded.dev/2017/11/03/cpp-algo-0/</id>
+    <published>2017-11-03T12:43:00.000Z</published>
+    <updated>2021-02-22T17:11:05.626Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/2017/11/xkcd-algo.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The more I learn about an eco-system, the more I understand how little I know about it.&lt;</summary>
+      
+    
+    
+    
+    <category term="programming" scheme="https://oded.dev/categories/programming/"/>
+    
+    
+    <category term="c++" scheme="https://oded.dev/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Everything that is wrong with sudo, and how I&#39;m planning to fix it</title>
+    <link href="https://oded.dev/2017/10/21/doas-hello-world/"/>
+    <id>https://oded.dev/2017/10/21/doas-hello-world/</id>
+    <published>2017-10-20T21:37:00.000Z</published>
+    <updated>2021-02-22T17:11:05.626Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 align=&quot;center&quot;&gt;
+  &lt;a href=&quot;https://github.com/odedlaz/suex&quot;&gt;&lt;img src=&quot;/images/2017/10/suex_xkcd.png&quot; alt=&quot;suex&quot; width=&quot;256&quot; height=&quot;256&quot;</summary>
+      
+    
+    
+    
+    <category term="programming" scheme="https://oded.dev/categories/programming/"/>
+    
+    
+    <category term="c++" scheme="https://oded.dev/tags/c/"/>
+    
+    <category term="project" scheme="https://oded.dev/tags/project/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Implementing Go&#39;s defer keyword in C++</title>
+    <link href="https://oded.dev/2017/10/05/go-defer-in-cpp/"/>
+    <id>https://oded.dev/2017/10/05/go-defer-in-cpp/</id>
+    <published>2017-10-05T08:24:00.000Z</published>
+    <updated>2021-02-22T17:11:05.626Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Go has a neat keyword called defer that is used to ensure that a function call is performed later in a program’s execution, usually for p</summary>
+      
+    
+    
+    
+    <category term="programming" scheme="https://oded.dev/categories/programming/"/>
+    
+    
+    <category term="c++" scheme="https://oded.dev/tags/c/"/>
+    
+    <category term="golang" scheme="https://oded.dev/tags/golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sick of sudoers NOPASSWD?</title>
+    <link href="https://oded.dev/2017/08/30/runas-tool/"/>
+    <id>https://oded.dev/2017/08/30/runas-tool/</id>
+    <published>2017-08-30T06:24:00.000Z</published>
+    <updated>2021-02-22T17:11:05.630Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;TL;DR: I wrote a tool that allows to run a binary as a different owner/group.  &lt;/p&gt;
+&lt;p&gt;You can download it from &lt;a href=&quot;https://github.c</summary>
+      
+    
+    
+    
+    <category term="programming" scheme="https://oded.dev/categories/programming/"/>
+    
+    
+    <category term="c++" scheme="https://oded.dev/tags/c/"/>
+    
+    <category term="project" scheme="https://oded.dev/tags/project/"/>
+    
+    <category term="linux" scheme="https://oded.dev/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GNOME Shell Modes</title>
+    <link href="https://oded.dev/2017/08/20/gnome3-modes/"/>
+    <id>https://oded.dev/2017/08/20/gnome3-modes/</id>
+    <published>2017-08-20T17:39:00.000Z</published>
+    <updated>2021-02-22T17:11:05.626Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;A few days ago I installed PulseSecure’s client to gain access to the corporate VPN.&lt;br&gt;For reasons comepletely unknown to me, these guys</summary>
+      
+    
+    
+    
+    <category term="devops" scheme="https://oded.dev/categories/devops/"/>
+    
+    
+    <category term="linux" scheme="https://oded.dev/tags/linux/"/>
+    
+    <category term="gnome" scheme="https://oded.dev/tags/gnome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Algorithms to Live By</title>
+    <link href="https://oded.dev/2017/08/11/algorithms-to-live-by/"/>
+    <id>https://oded.dev/2017/08/11/algorithms-to-live-by/</id>
+    <published>2017-08-11T18:13:25.000Z</published>
+    <updated>2021-02-22T17:11:05.626Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/2017/08/algorithms-to-live-by.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;A few weeks ago I started reading &lt;a href=&quot;http://algorithmstoliveby.com/&quot;&gt;Algorithms to Live By: The Computer Science of Human Decisions&lt;/a&gt; and been fascinated by it ever since:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of the new and familiar is the most fulfilling? These may seem like uniquely human quandaries, but they are not. Computers, like us, confront limited space and time, so computer scientists have been grappling with similar problems for decades. And the solutions they’ve found have much to teach us.&lt;/p&gt;
+&lt;p&gt;In a dazzlingly interdisciplinary work, &lt;a href=&quot;http://brian-christian.com/&quot;&gt;Brian Christian&lt;/a&gt; and &lt;a href=&quot;http://cocosci.berkeley.edu/tom/&quot;&gt;Tom Griffiths&lt;/a&gt; show how algorithms developed for computers also untangle very human questions. They explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others. From finding a spouse to finding a parking spot, from organizing one’s inbox to peering into the future, &lt;a href=&quot;http://algorithmstoliveby.com/&quot;&gt;Algorithms to Live By&lt;/a&gt; transforms the wisdom of computer science into strategies for human living.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I’ll try and give you a little taste of the book - which I’m still reading (more precisely, &lt;a href=&quot;https://www.audible.com/pd/Business/Algorithms-to-Live-By-Audiobook/B01D24NLWO&quot;&gt;listening&lt;/a&gt;), so you’ll know what you’re getting into.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="general" scheme="https://oded.dev/categories/general/"/>
+    
+    <category term="book" scheme="https://oded.dev/categories/general/book/"/>
+    
+    
+    <category term="algorithm" scheme="https://oded.dev/tags/algorithm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Making Hexo Blazing Fast</title>
+    <link href="https://oded.dev/2017/07/26/hexo-performance-optimizations/"/>
+    <id>https://oded.dev/2017/07/26/hexo-performance-optimizations/</id>
+    <published>2017-07-26T14:24:13.000Z</published>
+    <updated>2021-02-22T17:11:05.630Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;A week ago I migrated my blog from &lt;a href=&quot;/2017/07/11/From-Ghost-to-Hexo/&quot;&gt;Ghost to Hexo&lt;/a&gt; to gain better performance and save money.&lt;/p&gt;
+&lt;p&gt;Hexo is said to be “Blazing Fast”, but while I did “feel” that my &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt; based site was snappier than its predecessor, it was far from “Blazing Fast”.&lt;/p&gt;
+&lt;p&gt;Performance is extremely important. There are a lot of articles on the subject, most of which point out that website performance &amp;amp; uptime are key to user satisfaction. WebpageFX wrote a nice summary of the subject - &lt;a href=&quot;https://www.webpagefx.com/blog/web-design/why-website-speed-is-important/&quot;&gt;Why Website Speed is Important&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I’m not a web developer, and have almost zero knowledge in website optimizations. Nonetheless, I’ve optimized more then a few apps in my career and know how to approach such problems.&lt;/p&gt;
+&lt;p&gt;All I need is to figure out the tooling to find the bottlenecks and fix them to gain &lt;strong&gt;good enough&lt;/strong&gt; performance. That is, I’m not looking into optimizing every single piece of the website, only making it fast enough so it’ll feel snappy.&lt;/p&gt;
+&lt;p&gt;This blog post explains the steps I took in order to dramatically decrease the average page size to less then 350k.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2017/07/xkcd-optimization.png&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="devops" scheme="https://oded.dev/categories/devops/"/>
+    
+    
+    <category term="optimization" scheme="https://oded.dev/tags/optimization/"/>
+    
+    <category term="hexo" scheme="https://oded.dev/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>From Ghost to Hexo</title>
+    <link href="https://oded.dev/2017/07/11/From-Ghost-to-Hexo/"/>
+    <id>https://oded.dev/2017/07/11/From-Ghost-to-Hexo/</id>
+    <published>2017-07-11T09:03:00.000Z</published>
+    <updated>2021-02-22T17:11:05.618Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;After a few months of hosting my blog at &lt;a href=&quot;https://digitalocean.com/&quot;&gt;DigitalOcean&lt;/a&gt;, I decided to ditch &lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost&lt;/a&gt;.&lt;br&gt;Instead, I’m moving my blog to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;, hosted by &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; -&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ghost doesn’t offer any server features, but runs one.&lt;/li&gt;
+&lt;li&gt;Ghost wasn’t fast enough.&lt;/li&gt;
+&lt;li&gt;Unnecessary Server costs.&lt;/li&gt;
+&lt;li&gt;To much Maintenance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2017/07/hexo-logo.png&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="announcement" scheme="https://oded.dev/categories/announcement/"/>
+    
+    <category term="blog" scheme="https://oded.dev/categories/announcement/blog/"/>
+    
+    
+    <category term="hexo" scheme="https://oded.dev/tags/hexo/"/>
+    
+    <category term="ghost" scheme="https://oded.dev/tags/ghost/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>coroutines: basic building blocks for concurrency</title>
+    <link href="https://oded.dev/2017/07/05/coroutines-basic-building-blocks-for-concurrency/"/>
+    <id>https://oded.dev/2017/07/05/coroutines-basic-building-blocks-for-concurrency/</id>
+    <published>2017-07-05T08:27:00.000Z</published>
+    <updated>2017-07-07T13:22:14.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;This part of the series explains the basic building block that allow writing concurrent programs in python.&lt;/p&gt;
+&lt;p&gt;Later in the series I’ll show how to use different async paradigms using the new async syntax that was (finally) introduced in Python 3.5.&lt;/p&gt;
+&lt;h2 id=&quot;Prerequisites&quot;&gt;&lt;a href=&quot;#Prerequisites&quot; class=&quot;headerlink&quot; title=&quot;Prerequisites&quot;&gt;&lt;/a&gt;Prerequisites&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;You’re using python 3.6.x&lt;/li&gt;
+&lt;li&gt;You’re familiar with coroutines. otherwise, read - &lt;a href=&quot;/2017/04/11/python-coroutines-introduction/&quot;&gt;coroutines: Introduction&lt;/a&gt;.&lt;ul&gt;
+&lt;li&gt;You might also want to read the previous blog post: &lt;a href=&quot;/2017/04/11/python-coroutines-pipelines-and-data-flow/&quot;&gt;coroutines: Pipelines &amp;amp; Data flow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="programming" scheme="https://oded.dev/categories/programming/"/>
+    
+    
+    <category term="python" scheme="https://oded.dev/tags/python/"/>
+    
+    <category term="concurrency" scheme="https://oded.dev/tags/concurrency/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Becoming the go-to guy for Linux internals</title>
+    <link href="https://oded.dev/2017/07/03/Becoming-the-go-to-guy-for-Linux-internals-Cybereason/"/>
+    <id>https://oded.dev/2017/07/03/Becoming-the-go-to-guy-for-Linux-internals-Cybereason/</id>
+    <published>2017-07-03T16:21:00.000Z</published>
+    <updated>2017-07-03T19:27:22.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;7 months ago I made a new years resolution to master vim: &lt;a href=&quot;/2016/12/12/the-road-to-mastering-vim/&quot;&gt;The Road to Mastering Vim&lt;/a&gt;.&lt;br&gt;I’m not a master just yet, it’s going to take a few years. After 7 months of exclusively editing text &amp;amp; code with vim, I can honestly say that I’m feeling at home and I can’t go back.&lt;/p&gt;
+&lt;p&gt;A few days ago I &lt;a href=&quot;/2017/06/22/goodbye-gartner-hello-cybereason/&quot;&gt;told the world that I’m moving to Cybereason&lt;/a&gt;. I didn’t say that I’m going as hard core as it gets - joining the team that develops the agent on Linux endpoints.&lt;/p&gt;
+&lt;h3&gt;&lt;center&gt; New Role → New Challenges. &lt;/center&gt;&lt;/h3&gt;
+
+&lt;center&gt;![](/images/2017/06/cybereason.png)&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="general" scheme="https://oded.dev/categories/general/"/>
+    
+    
+    <category term="cybereason" scheme="https://oded.dev/tags/cybereason/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Running, Editing &amp; Debugging .NET Core Apps Inside a Container</title>
+    <link href="https://oded.dev/2017/06/25/Running-Editing-Debugging-NET-Core-Apps-Inside-a-Container/"/>
+    <id>https://oded.dev/2017/06/25/Running-Editing-Debugging-NET-Core-Apps-Inside-a-Container/</id>
+    <published>2017-06-25T13:04:00.000Z</published>
+    <updated>2017-06-26T13:58:21.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Today I needed to add a few features to an existing .NET Core application. I’m running Fedora 25, but that shouldn’t be an issue, right? because -&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2017/06/ms_love_linux.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;It appears that it doesn’t love Fedora 25, because it’s still not officially supported. Instead of hacking around and trying to get this thing working, and wasting my whole day doing so, I thought - why not use Docker?&lt;/p&gt;
+&lt;p&gt;The idea was simple - create a container that fires up &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; inside a container that has &lt;a href=&quot;https://www.microsoft.com/net/core&quot;&gt;.NET Core&lt;/a&gt; installed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2017/06/docker-net.png&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="devops" scheme="https://oded.dev/categories/devops/"/>
+    
+    
+    <category term="linux" scheme="https://oded.dev/tags/linux/"/>
+    
+    <category term="docker" scheme="https://oded.dev/tags/docker/"/>
+    
+    <category term="vscode" scheme="https://oded.dev/tags/vscode/"/>
+    
+    <category term=".netcore" scheme="https://oded.dev/tags/netcore/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Goodbye Gartner, Hello Cybereason</title>
+    <link href="https://oded.dev/2017/06/22/Goodbye-Gartner-Hello-Cybereason/"/>
+    <id>https://oded.dev/2017/06/22/Goodbye-Gartner-Hello-Cybereason/</id>
+    <published>2017-06-22T02:58:00.000Z</published>
+    <updated>2017-06-23T11:05:17.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: I’m leaving &lt;a href=&quot;http://gici.co.il/&quot;&gt;Gartner Innovation Center&lt;/a&gt; and joining &lt;a href=&quot;https://cybereason.com/&quot;&gt;Cybereason&lt;/a&gt; 🎉🎉🎉&lt;/p&gt;
+&lt;p&gt;The blog post is split into four parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/2017/06/22/goodbye-gartner-hello-cybereason#the-past&quot;&gt;The Past: A brief history of how Gartner Innovation Center was formed.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2017/06/22/goodbye-gartner-hello-cybereason#the-present&quot;&gt;The Present: What Gartner Innovation Center is currently up to&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2017/06/22/goodbye-gartner-hello-cybereason#the-decision-to-move&quot;&gt;The decision to move and get out of my comfort zone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2017/06/22/goodbye-gartner-hello-cybereason#the-future&quot;&gt;The Future: My thoughts on what’s going to happen next&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="announcement" scheme="https://oded.dev/categories/announcement/"/>
+    
+    <category term="general" scheme="https://oded.dev/categories/announcement/general/"/>
+    
+    
+    <category term="cybereason" scheme="https://oded.dev/tags/cybereason/"/>
+    
+    <category term="gici" scheme="https://oded.dev/tags/gici/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>names generator à la docker</title>
+    <link href="https://oded.dev/2017/06/20/names-generator-a-la-docker/"/>
+    <id>https://oded.dev/2017/06/20/names-generator-a-la-docker/</id>
+    <published>2017-06-20T05:03:00.000Z</published>
+    <updated>2017-06-20T06:03:20.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;I really like docker’s names generator. It makes remembering id’s easier, and as of version 0.7.x, it generates names from notable scientists and hackers, which gives it an extra bonus!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2017/06/docker.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;There are a number of ports out there (&lt;a href=&quot;https://github.com/shamrin/namesgenerator&quot;&gt;shamrin/namesgenerator&lt;/a&gt; for example), but all of them just copy-and-paste the names, which is not cool at all.&lt;/p&gt;
+&lt;p&gt;I decided to parse &lt;a href=&quot;https://raw.githubusercontent.com/moby/moby/master/pkg/namesgenerator/names-generator.go&quot;&gt;names-generator.go&lt;/a&gt; and extract the names from it, thus making sure it’s always up to date.&lt;/p&gt;
+&lt;p&gt;I wrote two implementations, one in python and one in go.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/2017/06/20/names-generator-a-la-docker#regular-expressions&quot;&gt;python&lt;/a&gt;: parses the code directly using regular expressions&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/2017/06/20/names-generator-a-la-docker#abstract-syntax-tree&quot;&gt;go&lt;/a&gt;: parses the code using go’s AST package, and spit python code to stdout.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;^ The hyperlinks lead to the relevant section in the blog post.&lt;/p&gt;
+&lt;p&gt;The amount of lines needed to do all that work is relatively short, which shows how powerful these languages are.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="programming" scheme="https://oded.dev/categories/programming/"/>
+    
+    
+    <category term="golang" scheme="https://oded.dev/tags/golang/"/>
+    
+    <category term="python" scheme="https://oded.dev/tags/python/"/>
+    
+    <category term="docker" scheme="https://oded.dev/tags/docker/"/>
+    
+  </entry>
+  
+</feed>

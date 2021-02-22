@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/odedlaz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://oded.blog
+  * I am odedlaz (https://keybase.io/odedlaz) on keybase.
+  * I have a public key with fingerprint 5017 D338 3F64 1ADF 43C6  EF9D 515C 0ACE 5D29 39A2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014e90029c2084f08f1416c4a120b55c756d0f2fc606e2bfa0f57945a1325765810a",
+      "fingerprint": "5017d3383f641adf43c6ef9d515c0ace5d2939a2",
+      "host": "keybase.io",
+      "key_id": "515c0ace5d2939a2",
+      "kid": "01014e90029c2084f08f1416c4a120b55c756d0f2fc606e2bfa0f57945a1325765810a",
+      "uid": "fe14a74eea281118d7650d0977cb4619",
+      "username": "odedlaz"
+    },
+    "service": {
+      "hostname": "oded.blog",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1516992224,
+  "expire_in": 157680000,
+  "prev": "94c0668dab7fb76e94aa171e1335ceba478b6f1d2a8f92dd3f2aa6a5ac98aa08",
+  "seqno": 58,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkmtQVGUYx5fLKreAEQSlcPKMfcAAz/2yIxmGOkzGhqU5gKzvOec9y2GX3eXs
+LnecURqgHC8pyiXjshijRIBKYy5GlGhBJoOU2MQkI4jBCORk0RhSZ5mc6UMfe7+8
+8/7n9/+/z/PMc/QZH42fV2pGwI09MZzL65spXpNmyntUjPBWsRDRFSMmuHRBswjt
+DoNJFhEdgmIoRkIORXFOwFGWlFBWwkiMFkiA4ShPUQJD0SIq4ZJAozTEeQmgEsVw
+JAUwAqcYmmIxFCCxiCRbjFCxKbLFocZSKMaIBMESEk1iQJRIQqChxIkURgkoECAl
+4hzBAVw1ZlntHodaHA/sMF62qpr6MCyV9x/8/1y3cylOghgJGBJCgLMYhrGiCqAi
+yjGMwJM0xnlAO1QsIAeqtFWEohkUIaWxiCrmyQL0zNXTyL+AeN5sNao+m2J1WAWr
+WZWzHA6bXeexOQptHi4f8oZ/Egy8bBHVGaqOPKjYZasF0WEqKThkTyRGYTTH4ThO
+xiKwwCYr0CB7CLUTFlWP5x+Yp0ZypIDSNCsCntkp8QwNORIAjMEgRhCUAHlAMixP
+S5iIA1bicFEkJBwAGlBA4FgAUBbxNJVrsSI6ilULBUY11C4bLcDhVCBSGvCON+Gr
+8fLTREes9X09cpjdJEbdeeXa3AdPF0/r7dk6TYB/6FMluCtUc+Jdg6O4xJ5i8tmV
+ePfU4lXvaWMA5R/sKjD99eP9xnR/KeXIxuf1TRt29Dq4Fm31yqxFImOiLTvGnZxQ
+rbSs/+O7H148/7Yt580Tz+664iwuj7gQ3Be5eXbms4/Gu7gSn72vioOBb037H3n8
+/sGeyJMrxqc//fyMo98vqqO7kqihe5KDnBXfoqszK8cKt86HDkzsyTnm13wlP7h2
+Rbn22qaCDtdOLkH5ZW3ukJdbs/5elfnyzyTZezMxLdldEmS817uvN7di90jiTMjC
+9WJTHHeo7ZLeXXSj6NxoU/mZfSM5sy3bZsKmAh9tvj6QzV7U8sKW1rJT2tK78eGT
+8XX65fp+d1vfFNU0W1pfvf/0G1S85eHxtIDR79d0nizIGc4/jPfdjEkNRPtvPZhf
+1zyfMtKYMbQsjLmohOynm3e8JFyq6M681d5Qd6CmNUxOamytur07c3Ldh/Xba8za
+ytrfR4Po117eePvXr2UpaHF8oFagKg4d1M1l8+mDpZOn5701Z/UTES7nxKJrqnDs
++JM44ePUxRfWXG6IDv5t/Nygsry2obvHfWy4zH0+3VQWeBXjv9yrD9H4Olx1X32S
+0Snyqx7kbt+2oESbHkZVtbu2PKnPLQjv+lMfV3N4Usq7v6p98kBH/Z3VzrKfxhbC
+n5tLWWlrPOs3ZDn6+D0pqZNdlp+wISlb0/nFhb8B
+=CN0F
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/odedlaz
+
+==================================================================
