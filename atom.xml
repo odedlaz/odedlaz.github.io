@@ -6,7 +6,7 @@
   <link href="https://oded.dev/atom.xml" rel="self"/>
   
   <link href="https://oded.dev/"/>
-  <updated>2021-02-22T17:11:05.614Z</updated>
+  <updated>2021-02-22T18:43:26.216Z</updated>
   <id>https://oded.dev/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Working from Home + Corporate VPN</title>
+    <link href="https://oded.dev/2021/02/22/SSH-GlobalProtect/"/>
+    <id>https://oded.dev/2021/02/22/SSH-GlobalProtect/</id>
+    <published>2021-02-22T17:30:03.000Z</published>
+    <updated>2021-02-22T18:43:26.216Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hey everyone! today I’d like to tell you a small story about a guy that’s been stuck working from home for more than a year and is suffer</summary>
+      
+    
+    
+    
+    
+    <category term="linux" scheme="https://oded.dev/tags/linux/"/>
+    
+    <category term="devops" scheme="https://oded.dev/tags/devops/"/>
+    
+  </entry>
   
   <entry>
     <title>AX3600 - Post #1</title>
@@ -503,39 +525,6 @@
     <category term="cybereason" scheme="https://oded.dev/tags/cybereason/"/>
     
     <category term="gici" scheme="https://oded.dev/tags/gici/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>names generator à la docker</title>
-    <link href="https://oded.dev/2017/06/20/names-generator-a-la-docker/"/>
-    <id>https://oded.dev/2017/06/20/names-generator-a-la-docker/</id>
-    <published>2017-06-20T05:03:00.000Z</published>
-    <updated>2017-06-20T06:03:20.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;I really like docker’s names generator. It makes remembering id’s easier, and as of version 0.7.x, it generates names from notable scientists and hackers, which gives it an extra bonus!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/2017/06/docker.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;There are a number of ports out there (&lt;a href=&quot;https://github.com/shamrin/namesgenerator&quot;&gt;shamrin/namesgenerator&lt;/a&gt; for example), but all of them just copy-and-paste the names, which is not cool at all.&lt;/p&gt;
-&lt;p&gt;I decided to parse &lt;a href=&quot;https://raw.githubusercontent.com/moby/moby/master/pkg/namesgenerator/names-generator.go&quot;&gt;names-generator.go&lt;/a&gt; and extract the names from it, thus making sure it’s always up to date.&lt;/p&gt;
-&lt;p&gt;I wrote two implementations, one in python and one in go.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/2017/06/20/names-generator-a-la-docker#regular-expressions&quot;&gt;python&lt;/a&gt;: parses the code directly using regular expressions&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/2017/06/20/names-generator-a-la-docker#abstract-syntax-tree&quot;&gt;go&lt;/a&gt;: parses the code using go’s AST package, and spit python code to stdout.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;^ The hyperlinks lead to the relevant section in the blog post.&lt;/p&gt;
-&lt;p&gt;The amount of lines needed to do all that work is relatively short, which shows how powerful these languages are.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="programming" scheme="https://oded.dev/categories/programming/"/>
-    
-    
-    <category term="golang" scheme="https://oded.dev/tags/golang/"/>
-    
-    <category term="python" scheme="https://oded.dev/tags/python/"/>
-    
-    <category term="docker" scheme="https://oded.dev/tags/docker/"/>
     
   </entry>
   
